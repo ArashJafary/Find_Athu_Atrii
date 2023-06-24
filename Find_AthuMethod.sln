@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_AthuMethod", "Find_AthuMethod\Find_AthuMethod.csproj", "{A9B5127E-4ED9-49FE-BA49-9D92363552BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E2AAE9CA-D4C5-4673-9518-094D1D007F0B}"
+	ProjectSection(SolutionItems) = preProject
+		Athu.http = Athu.http
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9B5127E-4ED9-49FE-BA49-9D92363552BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B5127E-4ED9-49FE-BA49-9D92363552BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B5127E-4ED9-49FE-BA49-9D92363552BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B5127E-4ED9-49FE-BA49-9D92363552BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71EAA21B-C679-4468-94C4-51E85CD2A405}
+	EndGlobalSection
+EndGlobal
